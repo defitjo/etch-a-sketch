@@ -1,0 +1,1 @@
+The goal of this project is to utilize Javascript and jQuery to manipulate the DOM and create an etch-a-sketch app.

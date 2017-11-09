@@ -1,0 +1,29 @@
+#container {
+	background-color: #EDF0F5
+	height: 780px;
+	width: 780px;
+	white-space: nowrap;
+	font-size: 0;
+	position: relative;
+	margin: auto;
+}
+
+.grid {
+	float: left;
+	background-color: #F8AE0D;
+	margin: 1px;
+	padding: 0;
+	display: inline-block;
+}
+
+.hover {
+	background-color: #CA82AA;
+}
+
+h1 {
+	text-align: center;
+}
+
+body {
+	background-color: #EDF0F5;
+}
